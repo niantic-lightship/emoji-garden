@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d43336ec353d9475d9a50fcd543573b1, type: 3}
+  m_Name: FTUE_Modal_Data
+  m_EditorClassIdentifier: 
+  headerText: 
+  bodyText: Walk slowly around the Public Location to capture multiple angles
+  primaryText: Okay, got it!
+  image: {fileID: 2800000, guid: d29426854b4324449a67ab8ce30a2ed1, type: 3}
+  animatorController: {fileID: 9100000, guid: a9f593494f2494679b746494a0e1f02c, type: 2}

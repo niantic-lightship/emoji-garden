@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:argeo/lightship-external-samples/emoji-garden/Assets/Prefabs/RoundedRectButton.prefab.meta
+guid: 2295fbd24a28142f086234f1ec7ba951
+========
+guid: b1177576296684693845ae84a08250ec
+>>>>>>>> 0ee812e1f09 (Adding representation for user's location. Gave it a temporary pulsing animation to help with locating it in a crowded view.):argeo/lightship-external-samples/emoji-garden/Assets/Prefabs/UserMapLayer.prefab.meta
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bce5a570ad2b481aaed38e062c35905, type: 3}
+  m_Name: LocationPermissionModalData
+  m_EditorClassIdentifier: 
+  headerText: Share your location
+  bodyText: "By sharing your location, you\u2019ll be able to find your way to Public
+    Locations to experience the app"
+  primaryText: Enable location
+  image: {fileID: 2800000, guid: dc3ce5662cbc34cfeb4a9e09fbf5d547, type: 3}
+  denyText: Not now

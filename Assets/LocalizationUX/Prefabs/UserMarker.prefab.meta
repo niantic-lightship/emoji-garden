@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:argeo/ardk-next/unity/ardk/Assets/Samples/Scanning/Materials/ScannedObjectUnlit.mat.meta
+guid: 36aa896ee14b64cdfbef3b453b054e4b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+========
+guid: 675a7d19a40c143ffbecc512998a3f5d
+PrefabImporter:
+  externalObjects: {}
+>>>>>>>> 0ee812e1f09 (Adding representation for user's location. Gave it a temporary pulsing animation to help with locating it in a crowded view.):argeo/lightship-external-samples/emoji-garden/Assets/Prefabs/UserMarker.prefab.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

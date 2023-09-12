@@ -1,0 +1,1907 @@
+fileFormatVersion: 2
+guid: d29426854b4324449a67ab8ce30a2ed1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4536
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23223bd49bb0473aa8d929318212067
+      internalID: 2079453648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4536
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b2fd38b58b942149407a6d83e99054
+      internalID: -842593710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_2
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4536
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08755d0075cb2466e8164c8d6b2ec767
+      internalID: -166663017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_3
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 4536
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e0597d279a495d87864a3c2c4f0ef
+      internalID: -1353376988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_4
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4536
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1267ae226657e49bf94ba1cbf047e240
+      internalID: -2060739937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_5
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 4536
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff92ca29c07e427fb28bd62fbd783bb
+      internalID: 1985737945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_6
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4536
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d408973c47b7a4811b932d8408a9dbff
+      internalID: 2010002984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_7
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 4536
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a295b5c68cc764cc2830d75e9becabc5
+      internalID: -1258280615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6998a2106a2294cecb0049644c106eec
+      internalID: 1208144336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4032
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d65a2acdabc94a328bf2681973d2156
+      internalID: -1682605701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4032
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f114f1ba87b45cf859e3509203683b
+      internalID: -1011547637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_11
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 4032
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cf85bfce1534d8798aea1f80426cf4
+      internalID: -1624164933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_12
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4032
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1327c1fccbe4baa8ad5a2e9db85620
+      internalID: -1357005430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_13
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 4032
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e0f097bf66c4ba78448356d468b03a
+      internalID: 517958749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_14
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4032
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4331dc28b9440259e981c7e49344df
+      internalID: -483005875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_15
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 4032
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979e7001265344bfc988aeb405f01721
+      internalID: -2105078645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3528
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a286d41ca9c6744fa8096831f7549c50
+      internalID: -1500029227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3528
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b754bbb911ba0465caf50f13fc75a254
+      internalID: -928389891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3528
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec84d764595ea473c8e380db4f8af674
+      internalID: 1348395899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_19
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 3528
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6549417767f8b4a888a9035156840629
+      internalID: -1456329499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_20
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3528
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6283670b42347f4b8975525594d8c1
+      internalID: 785608026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_21
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3528
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58dc91846b0041c0871ed2fcda0d854
+      internalID: 749745209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_22
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3528
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f867bf993f73491ab0fc4de7e648032
+      internalID: 1916755351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_23
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 3528
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60054bc196ea408aa0a576e8a3127e3
+      internalID: 311995892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3024
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14036b4f5b55843f0945ed8193e5ed5b
+      internalID: -526608431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3024
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d482751f6f254c6ba8785ca914177b4
+      internalID: 1258342956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_26
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3024
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2067e46a2be4e49d5ae34ef902724403
+      internalID: 1409879529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_27
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 3024
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d290a118cab43ad8ca12c456524786
+      internalID: 160663093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_28
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3024
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf9b6cb798449c09abf855b97633e3
+      internalID: -366009094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_29
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3024
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28135e8bdc55842e7adedc6d207bd08f
+      internalID: -792038690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_30
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3024
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b9508f16ee14b739d4844d7aa2e17b
+      internalID: -770358386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_31
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 3024
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f270dbed3c8a84c479af441386571056
+      internalID: 1795437091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1a9ec9543f04c88acdebf794963af3
+      internalID: -22211933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_33
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2520
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbc9a4bb738240adb0e810157eb39c2
+      internalID: 817101998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_34
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2520
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f883f0304a50422f8a6c79a05f62c83
+      internalID: 1277702030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_35
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2520
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab6e61151e6548e5aaf9412b3db8461
+      internalID: -902738409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_36
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2520
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f1d43402d7242ecbbcd13197dc5f8d
+      internalID: 296672067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_37
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2520
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea00be95e4c994abdb4dc2e5d5c192b0
+      internalID: -1448841316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_38
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2520
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df137bac55654e5e99bbbbe05af66c5
+      internalID: -245984793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_39
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2520
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d20ba9304c9548beae65571da512932
+      internalID: 1850900558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865b2450a0828412a91161678751e8fb
+      internalID: 58297272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_41
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2016
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb440ca96d8f454f99f7710b0d67f1b
+      internalID: -1176264641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_42
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2016
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c73958484a984de6a34d76866089237
+      internalID: 70410205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_43
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2016
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97e1b38f646c4fc8b64a063318eb771
+      internalID: -633656005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_44
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2016
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc35379e792f469c9ba72130631bb72
+      internalID: -1567624514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_45
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2016
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04194caf28913403aacfd9b0d9b4501c
+      internalID: 292019501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_46
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2016
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84db54a061b73423db1acc58ad7dcdcc
+      internalID: 61866501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_47
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2016
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798ef889c66e34966a17e445d8793eab
+      internalID: -1107289196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b1bd8682ed14cea8051629af16e291
+      internalID: 1877766342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_49
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1512
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d122b1061ea49808e9b0018fa84b35
+      internalID: -1429165616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_50
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1512
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d416297bd424a23b1a89b302589bd8
+      internalID: 1490636656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_51
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1512
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cbfcfdd123c4a59b52e748da544801
+      internalID: 1587802334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_52
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1512
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82c59e72b32c46a19ff895c74938ed8
+      internalID: 1466798428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_53
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1512
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059e7a744efb14f70a9facf8ee324d40
+      internalID: 1137813274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_54
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1512
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e22e49b6efe465cbda3d53c06e30bf
+      internalID: -407784559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_55
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1512
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9901f8de8c44a26a9259e31b51b931
+      internalID: -94042835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65608c94eeb414424a40da8d573a2250
+      internalID: -1491370703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_57
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1008
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f72dd3c0d3d44239aace63771286e1
+      internalID: 41875223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_58
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1008
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b214f0ae6a3f4b7cbfb75b1a083a2a3
+      internalID: 51108393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_59
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1008
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff3610e5b9644bb7b9ccd30eaffbb2f
+      internalID: 846741397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_60
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1008
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d76f67b56ec148c883002745881466d
+      internalID: 1603232270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_61
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1008
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65228dddeeb694561885537a618099a0
+      internalID: -1462484181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_62
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1008
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2314b1a445c664a32b920e2d81058340
+      internalID: 1634221436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_63
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1008
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c520c6a2a823b4ce4bc11101eb271485
+      internalID: 1542596908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbcc649243604980986a7e70443fe3c
+      internalID: -1645076727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_65
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 504
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1238a5cc66380419ead4b19724f61f59
+      internalID: -1212944465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_66
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 504
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb49549b06a69412ab5aa5ad492795a8
+      internalID: -1615947519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_67
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 504
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ac8f91256424d3f8391d4000620e66
+      internalID: 1378518232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_68
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 504
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82e77257092b4e8b832d937ee604ee0
+      internalID: 555850922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_69
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 504
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a38eacd148a4c63b90d3d18bd2c082
+      internalID: 67425138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_70
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 504
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07491ed40031345c9ac4123b9e03bf4e
+      internalID: -723556116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_71
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 504
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ce5d6607eb44042925a599d32da41a
+      internalID: -716692449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a923248ff0d84ec2a1f813ad574d5d2
+      internalID: -923079480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_73
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a10c6c02e85345f8acf9222d47dd335
+      internalID: 663840068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_74
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520a0d1976f85412c99825e167704e67
+      internalID: 1044241628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_75
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865304be4424e47f2929ca57fcb78e44
+      internalID: -1702412679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_76
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d3d5594d1e74fb0bb7dd3a2781e097
+      internalID: 971563125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_77
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d0dba8bfdbc40ef9bdc07111449682
+      internalID: -1960065185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_78
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676ae9dfe1b624136bfd43fa7ac1d179
+      internalID: -1662335879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue-coaching-ui_#[540,504]_79
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 0
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77820596f549a4be9806f1741cc739bf
+      internalID: 1130696616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ftue-coaching-ui_#[540,504]_0: 2079453648
+      ftue-coaching-ui_#[540,504]_1: -842593710
+      ftue-coaching-ui_#[540,504]_10: -1011547637
+      ftue-coaching-ui_#[540,504]_11: -1624164933
+      ftue-coaching-ui_#[540,504]_12: -1357005430
+      ftue-coaching-ui_#[540,504]_13: 517958749
+      ftue-coaching-ui_#[540,504]_14: -483005875
+      ftue-coaching-ui_#[540,504]_15: -2105078645
+      ftue-coaching-ui_#[540,504]_16: -1500029227
+      ftue-coaching-ui_#[540,504]_17: -928389891
+      ftue-coaching-ui_#[540,504]_18: 1348395899
+      ftue-coaching-ui_#[540,504]_19: -1456329499
+      ftue-coaching-ui_#[540,504]_2: -166663017
+      ftue-coaching-ui_#[540,504]_20: 785608026
+      ftue-coaching-ui_#[540,504]_21: 749745209
+      ftue-coaching-ui_#[540,504]_22: 1916755351
+      ftue-coaching-ui_#[540,504]_23: 311995892
+      ftue-coaching-ui_#[540,504]_24: -526608431
+      ftue-coaching-ui_#[540,504]_25: 1258342956
+      ftue-coaching-ui_#[540,504]_26: 1409879529
+      ftue-coaching-ui_#[540,504]_27: 160663093
+      ftue-coaching-ui_#[540,504]_28: -366009094
+      ftue-coaching-ui_#[540,504]_29: -792038690
+      ftue-coaching-ui_#[540,504]_3: -1353376988
+      ftue-coaching-ui_#[540,504]_30: -770358386
+      ftue-coaching-ui_#[540,504]_31: 1795437091
+      ftue-coaching-ui_#[540,504]_32: -22211933
+      ftue-coaching-ui_#[540,504]_33: 817101998
+      ftue-coaching-ui_#[540,504]_34: 1277702030
+      ftue-coaching-ui_#[540,504]_35: -902738409
+      ftue-coaching-ui_#[540,504]_36: 296672067
+      ftue-coaching-ui_#[540,504]_37: -1448841316
+      ftue-coaching-ui_#[540,504]_38: -245984793
+      ftue-coaching-ui_#[540,504]_39: 1850900558
+      ftue-coaching-ui_#[540,504]_4: -2060739937
+      ftue-coaching-ui_#[540,504]_40: 58297272
+      ftue-coaching-ui_#[540,504]_41: -1176264641
+      ftue-coaching-ui_#[540,504]_42: 70410205
+      ftue-coaching-ui_#[540,504]_43: -633656005
+      ftue-coaching-ui_#[540,504]_44: -1567624514
+      ftue-coaching-ui_#[540,504]_45: 292019501
+      ftue-coaching-ui_#[540,504]_46: 61866501
+      ftue-coaching-ui_#[540,504]_47: -1107289196
+      ftue-coaching-ui_#[540,504]_48: 1877766342
+      ftue-coaching-ui_#[540,504]_49: -1429165616
+      ftue-coaching-ui_#[540,504]_5: 1985737945
+      ftue-coaching-ui_#[540,504]_50: 1490636656
+      ftue-coaching-ui_#[540,504]_51: 1587802334
+      ftue-coaching-ui_#[540,504]_52: 1466798428
+      ftue-coaching-ui_#[540,504]_53: 1137813274
+      ftue-coaching-ui_#[540,504]_54: -407784559
+      ftue-coaching-ui_#[540,504]_55: -94042835
+      ftue-coaching-ui_#[540,504]_56: -1491370703
+      ftue-coaching-ui_#[540,504]_57: 41875223
+      ftue-coaching-ui_#[540,504]_58: 51108393
+      ftue-coaching-ui_#[540,504]_59: 846741397
+      ftue-coaching-ui_#[540,504]_6: 2010002984
+      ftue-coaching-ui_#[540,504]_60: 1603232270
+      ftue-coaching-ui_#[540,504]_61: -1462484181
+      ftue-coaching-ui_#[540,504]_62: 1634221436
+      ftue-coaching-ui_#[540,504]_63: 1542596908
+      ftue-coaching-ui_#[540,504]_64: -1645076727
+      ftue-coaching-ui_#[540,504]_65: -1212944465
+      ftue-coaching-ui_#[540,504]_66: -1615947519
+      ftue-coaching-ui_#[540,504]_67: 1378518232
+      ftue-coaching-ui_#[540,504]_68: 555850922
+      ftue-coaching-ui_#[540,504]_69: 67425138
+      ftue-coaching-ui_#[540,504]_7: -1258280615
+      ftue-coaching-ui_#[540,504]_70: -723556116
+      ftue-coaching-ui_#[540,504]_71: -716692449
+      ftue-coaching-ui_#[540,504]_72: -923079480
+      ftue-coaching-ui_#[540,504]_73: 663840068
+      ftue-coaching-ui_#[540,504]_74: 1044241628
+      ftue-coaching-ui_#[540,504]_75: -1702412679
+      ftue-coaching-ui_#[540,504]_76: 971563125
+      ftue-coaching-ui_#[540,504]_77: -1960065185
+      ftue-coaching-ui_#[540,504]_78: -1662335879
+      ftue-coaching-ui_#[540,504]_79: 1130696616
+      ftue-coaching-ui_#[540,504]_8: 1208144336
+      ftue-coaching-ui_#[540,504]_9: -1682605701
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+{
+    "name": "com.nianticlabs.emoji-garden.location-exp.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:65f63ee46cd8e4850a330cd55d93560c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
