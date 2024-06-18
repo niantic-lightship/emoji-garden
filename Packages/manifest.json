@@ -2,7 +2,7 @@
   "dependencies": {
     "com.niantic.lightship.maps": "https://github.com/niantic-lightship/maps-upm.git",
     "com.nianticlabs.lightship": "https://github.com/niantic-lightship/ardk-upm.git",
-    "com.nianticlabs.lightship.sharedar": "https://github.com/niantic-lightship/sharedar-upm.git",
+    "com.nianticlabs.lightship.sharedar": "https://github.com/niantic-lightship/sharedar-upm.git", 
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.collab-proxy": "2.0.7",
     "com.unity.ide.rider": "3.0.24",
