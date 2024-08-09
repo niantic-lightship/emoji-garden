@@ -12,9 +12,9 @@
       "hash": "f64602d1e39d9e955a07dd7a3ac79eb4f280f279"
     },
     "com.nianticlabs.lightship": {
-      "version": "file:../../../ardk-next/unity/DevPackages/com.nianticlabs.lightship",
+      "version": "https://github.com/niantic-lightship/ardk-upm.git",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "com.unity.editorcoroutines": "1.0.0",
         "com.unity.xr.arfoundation": "5.1.0",
@@ -27,11 +27,11 @@
       }
     },
     "com.nianticlabs.lightship.sharedar": {
-      "version": "file:../../../ardk-next/unity/DevPackages/com.nianticlabs.lightship.sharedar",
+      "version": "https://github.com/niantic-lightship/sharedar-upm.git",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
-        "com.nianticlabs.lightship": "3.6.0",
+        "com.nianticlabs.lightship": "3.7.0",
         "com.unity.netcode.gameobjects": "1.2.0"
       }
     },
